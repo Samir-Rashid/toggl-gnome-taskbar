@@ -1,0 +1,8 @@
+{
+  "name": "Toggl Taskbar",
+  "description": "View Toggl time tracking task bar",
+  "uuid": "toggltaskbar@godsped.com",
+  "shell-version": [
+    "45"
+  ]
+}
